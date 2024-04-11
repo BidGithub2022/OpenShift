@@ -2,4 +2,4 @@
 ---
 ## Contents
 
-- [Defining File System Configurations for VM](#Defining-File-System-Configurations-for-VM)
+- [Disconnected-installation-mirroring](https://github.com/BidGithub2022/OpenShift/blob/main/Disconnected-installation-mirroring.md)
