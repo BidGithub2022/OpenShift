@@ -1,6 +1,8 @@
 ## About disconnected installation mirroring
 You can use a mirror registry to ensure that your clusters only use container images that satisfy your organizational controls on external content. Before you install a cluster on infrastructure that you provision in a restricted network, you must mirror the required container images into that environment. To mirror container images, you must have a registry for mirroring.
 
+---
+
 ## Creating a mirror registry
 If you already have a container image registry, such as Red Hat Quay, you can use it as your mirror registry. If you do not already have a registry, you can create a mirror registry using the mirror registry for Red Hat OpenShift.
 
@@ -10,6 +12,8 @@ You must have a container image registry that supports Docker v2-2(see the refer
 - Sonatype Nexus Repository
 - Harbor
 
+--- 
+
 ## Mirroring images for a disconnected installation
 You can use one of the following procedures to mirror your OpenShift Container Platform image repository to your mirror registry:
 
@@ -17,6 +21,7 @@ You can use one of the following procedures to mirror your OpenShift Container P
 
 - Mirroring images for a disconnected installation using the oc-mirror plugin
 
+---
 
 ### Below steps are for  Mirroring images for a disconnected installation using the oc-mirror plugin:
 The following steps outline the high-level workflow on how to use the oc-mirror plugin to mirror images to a mirror registry:
@@ -52,9 +57,9 @@ The following steps outline the Detail workflow on how to use the oc-mirror plug
 4. Repeat these steps to update your mirror registry as necessary:
    [Keeping mirror registry content up to date](https://docs.openshift.com/container-platform/4.15/installing/disconnected_install/installing-mirroring-disconnected.html#updating-mirror-registry-content)
 
-___
+---
 
-**Reference link:**
+**Reference links:**
 
 [Disconnected installation mirroring](https://docs.openshift.com/container-platform/4.15/installing/disconnected_install/index.html)
 
