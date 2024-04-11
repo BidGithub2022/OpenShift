@@ -23,7 +23,7 @@ You can use one of the following procedures to mirror your OpenShift Container P
 
 ---
 
-### Below steps are for  Mirroring images for a disconnected installation using the oc-mirror plugin:
+## Below steps are for  Mirroring images for a disconnected installation using the oc-mirror plugin:
 The following steps outline the high-level workflow on how to use the oc-mirror plugin to mirror images to a mirror registry:
 
 1. Create an image set configuration file.
