@@ -64,3 +64,5 @@ The following steps outline the Detail workflow on how to use the oc-mirror plug
 [Disconnected installation mirroring](https://docs.openshift.com/container-platform/4.15/installing/disconnected_install/index.html)
 
 [Docker v2-2](https://docs.docker.com/registry/)
+
+[OpenShift Downloads](https://console.redhat.com/openshift/downloads)
