@@ -31,3 +31,17 @@ Dev Spaces page would look like this. Start creating your workspace from GIT or 
 ![Screenshot 2024-04-17 at 3 27 44 PM](https://github.com/BidGithub2022/OpenShift/assets/113651761/4ca0057d-f93d-43da-ae2a-e3312d8a7ed4)
 
 
+
+## Important Links:
+https://www.youtube.com/watch?v=Jfd0F0-uYfU&ab_channel=Cloud-NativeDevelopment
+
+https://www.youtube.com/watch?v=Pe0bFA4WawQ&ab_channel=RedHatDeveloper
+
+https://www.youtube.com/watch?v=DrdcRoZOO9A&ab_channel=OpenShift
+
+https://www.youtube.com/watch?v=_hvO3ADx-0A&ab_channel=RedHatDeveloper
+
+https://access.redhat.com/products/red-hat-openshift-dev-spaces
+
+https://developers.redhat.com/products/openshift-dev-spaces/overview
+
