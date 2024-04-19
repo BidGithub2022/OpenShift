@@ -32,7 +32,7 @@ Dev Spaces page would look like this. Start creating your workspace from GIT or 
 
 
 
-## Important Links:
+## Helpful Links:
 https://www.youtube.com/watch?v=Jfd0F0-uYfU&ab_channel=Cloud-NativeDevelopment
 
 https://www.youtube.com/watch?v=Pe0bFA4WawQ&ab_channel=RedHatDeveloper
